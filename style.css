@@ -42,8 +42,8 @@ button {
 }
 
 .box div:nth-child(3){
-    top: 60%;
-    left: 78%;
+    top: 80%;
+    left: 90%;
     animation: animate 8s linear infinite;
 }
 
