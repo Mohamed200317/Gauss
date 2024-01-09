@@ -78,7 +78,7 @@ body {
        height: 100vh;
        margin: 0;
        padding: 0;
-       color: #FFF;
+       color: #FFF8DC;
    }
    .box div{
        position: absolute;
